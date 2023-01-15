@@ -35,11 +35,11 @@
 [postgresql]: https://www.postgresql.org/
 [sql]: https://www.w3schools.com/sql/
 [html]: https://www.w3schools.com/html/
-[github]: https://github.com/berkansonmezay
+[github]: https://github.com/inalfurkanveli
 [cucumber]: https://cucumber.io/
 [intellij]: https://www.jetbrains.com/idea/download/#section=windows
 [testng]: https://testng.org/doc/
-[linkedin]: https://www.linkedin.com/in/berkansonmezay
+[linkedin]: https://www.linkedin.com/in/furkanveliinal
 
 <h3> Tools I Use:</h3>
 
